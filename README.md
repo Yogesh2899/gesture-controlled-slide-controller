@@ -95,32 +95,6 @@ Press Ctrl+C in terminal to close the application
 
 ---
 
-
-# 💻 macOS Permission Setup
-
-For keyboard control to work on macOS:
-
-Go to:
-
-System Settings → Privacy & Security
-
-Enable permissions for:
-
-* Accessibility
-* Input Monitoring
-
-Allow access for:
-
-* Terminal
-  OR
-* VS Code
-  OR
-* PyCharm
-
-Without these permissions, the app cannot control Google Slides.
-
----
-
 # 🎯 How to Use
 
 1. Open Google Slides in Chrome
