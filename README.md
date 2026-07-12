@@ -112,30 +112,12 @@ This project helps students understand:
 
 ---
 
-# 📸 Demo Idea
-
-Use this project during:
-
-* AI Workshops
-* Hackathons
-* College Tech Fests
-* Computer Vision Sessions
-* Smart Classroom Demonstrations
-
----
-
 # ⚠️ Notes
 
 * Ensure good lighting conditions
 * Keep hand visible to webcam
 * Avoid cluttered backgrounds for better detection
 * Works best at moderate camera distance
-
----
-
-# Live MediaPipe 
-![MediaPipe Hand Tracking Demo](https://google-ai-edge.github.io/mediapipe-samples-web/#/vision/hand_landmarker)
-![Google AI Media Pipe] (https://ai.google.dev/edge/mediapipe/solutions/guide)
 
 ---
 
